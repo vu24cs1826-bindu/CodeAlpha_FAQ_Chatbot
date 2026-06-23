@@ -1,78 +1,26 @@
-# Smart FAQ Assistant 
+# Smart FAQ Assistant 🤖
 
-
-A chatbot built using Python, Streamlit, and NLP techniques to answer frequently asked questions.
+A chatbot built using Python, Streamlit, and NLP techniques.
 
 ## Features
-
-- FAQ-based Question Answering
-- TF-IDF Vectorization
-- Cosine Similarity Matching
-- Chat History
-- Clear Chat Button
-- Streamlit Interface
+- FAQ-based chatbot
+- TF-IDF text vectorization
+- Cosine similarity matching
+- Chat history
+- Clear chat button
+- Unknown question detection
+- Streamlit web interface
 
 ## Technologies Used
-
 - Python
 - Streamlit
-- Scikit-Learn
+- Scikit-learn
 - JSON
 
-## Project Files
-
-```text
-app.py
-faq_data.json
-requirements.txt
-README.md
-```
-
-## How to Run the Project
-
-### Step 1
-Download or clone this repository.
-
-### Step 2
-Open the project folder in VS Code.
-
-### Step 3
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Step 4
-Run the Streamlit application:
-
-```bash
-python -m streamlit run app.py
-```
-
-### Step 5
-The chatbot will open automatically in your browser.
-
-### Step 6
-Ask questions related to:
-- Artificial Intelligence
-- Python
-- Machine Learning
-- GitHub
-- NLP
-
-### Step 7
-The chatbot finds the most similar FAQ using NLP techniques and displays the answer.
-
-## NLP Techniques Used
-
+## NLP Techniques
 - TF-IDF Vectorization
 - Cosine Similarity
 
 ## Developer
-
-**Bindu Sri Pinnelli**
-
-CodeAlpha Artificial Intelligence Internship
-
-Task 2 - Chatbot for FAQs
+Bindu Sri Pinnelli
+CodeAlpha AI Internship - Task 2

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is Python?",
+    "answer": "Python is a popular programming language."
+  },
+  {
+    "question": "What is AI?",
+    "answer": "AI stands for Artificial Intelligence."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a subset of AI."
+  },
+  {
+    "question": "What is Deep Learning?",
+    "answer": "Deep Learning is a subset of Machine Learning."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "NLP stands for Natural Language Processing."
+  },
+  {
+    "question": "What is Streamlit?",
+    "answer": "Streamlit is a framework for building web applications in Python."
+  },
+  {
+    "question": "What is GitHub?",
+    "answer": "GitHub is a platform for storing and sharing code."
+  },
+  {
+    "question": "What is Data Science?",
+    "answer": "Data Science is the process of extracting insights from data."
+  },
+  {
+    "question": "What is a Chatbot?",
+    "answer": "A chatbot is a program that simulates human conversation."
+  },
+  {
+    "question": "What is an API?",
+    "answer": "API stands for Application Programming Interface."
+  }
+]
